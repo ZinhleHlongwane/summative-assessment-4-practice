@@ -77,44 +77,44 @@ python -m pytest
 
 ---
 
-## Run tests per section
-# Loops:
+# Run tests per section
+## Loops:
 
 ```bash
 python -m pytest tests/test_loops.py -v
 ```
 
-# Functions:
+## Functions:
 
 ```bash
 python -m pytest tests/test_functions.py -v
 ```
 
-# Algorithms:
+## Algorithms:
 
 ```bash
 python -m pytest tests/test_algorithms.py -v
 ```
 
-# Command Line Commands:
+## Command Line Commands:
 
 ```bash
 python -m pytest tests/test_cli_tools.py -v
 ```
 
-# Data Structures:
+## Data Structures:
 
 ```bash
 python -m pytest tests/test_data_structures.py -v
 ```
 
-# Data Manipulation:
+## Data Manipulation:
 
 ```bash
 python -m pytest tests/test_data_manipulation.py -v
 ```
 
-# String Formatting:
+## String Formatting:
 
 ```bash
 python -m pytest tests/test_strings.py -v
